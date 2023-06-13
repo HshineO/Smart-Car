@@ -1,0 +1,16 @@
+{
+	"ModelCfgs" : 
+	[
+
+        {
+			"DeviceType" : "D310_C3X",
+			"ModelPath": "./huft-car-7-23.om",
+			"FrameWorkInput": "BGR",
+			"ModelInput": "BGR",
+			"NetworkWidth": 640,
+			"NetworkHeight": 352,
+			"NetworkChannel": 2,
+			"ScaleMeanEnable": false
+		}
+	]
+}
